@@ -1,0 +1,6 @@
+O algoritmo depende da coleta de dados dos valores da casa, salario e quantos anos vc pretende pagar. As variáveis são criadas para coletar os dados e logo em seguida fazer os calcúlos.
+Primeiro Calcúlamos o tempo q o indíviduo pretende pagar, quantidade anos vezes 12 meses, assim adquirimos o resultado.
+Proxímo calcúlo é feito com o valor da casa divídido pelo tempo de prenteção de quitação do ímovel.
+E por ultimo O valor do salário é multiplicado por 30 e divídido por 100 para sabermos se o total apagar por mês, será supeior a 30% do salário da pessoa.
+Usando a estrutura de condição se o valor exeder os 30% do salário, será informado o esses mesmos valores e que o valor do emprestimo não será aprovador.
+Mas se o valor não ultrapassar os 30%, será mostrado uma mensagem inormando o valor da parcela, quantos anos para quitar o ímovel e um "parabéns" em uma cor destacada.
